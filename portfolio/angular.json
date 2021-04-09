@@ -52,7 +52,7 @@
               "apps/portfolio/src/assets"
             ],
             "styles": ["apps/portfolio/src/styles.scss"],
-            "scripts": []
+            "scripts": ["apps/portfolio/src/js/scripts.js"]
           },
           "configurations": {
             "production": {
