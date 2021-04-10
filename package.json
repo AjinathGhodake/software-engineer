@@ -9,6 +9,7 @@
         "start": "ng serve",
         "build": "ng build",
         "test": "ng test",
+        "deploy": "git subtree push --prefix dist/apps/portfolio origin gh-pages",
         "lint": "nx workspace-lint && ng lint",
         "e2e": "ng e2e",
         "affected:apps": "nx affected:apps",
